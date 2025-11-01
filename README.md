@@ -21,7 +21,6 @@ The goal of this project is to demonstrate how to process raw text, extract name
 10. [🧩 Future Improvements](#-future-improvements)
 11. [🤝 Contributing](#-contributing)
 12. [📜 License](#-license)
-13. [👨‍💻 Author](#-author)
 
 ---
 
